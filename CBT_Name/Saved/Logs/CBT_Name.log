@@ -5011,3 +5011,168 @@ Would you like to regenerate the Skeleton from this mesh?
 [2022.03.05-22.19.33:548][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.05-22.19.33:557][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
 [2022.03.05-22.19.33:593][202]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.03.05-22.21.21:174][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.22:514][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.36:013][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.38:262][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.47:661][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.48:552][761]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.21.53:053][965]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/animation_movement/Floating__3__PhysicsAsset.Floating__3__PhysicsAsset
+[2022.03.05-22.21.55:258][965]LogSlate: Window 'Message' being destroyed
+[2022.03.05-22.21.55:263][965]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2022.03.05-22.21.55:277][965]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/animation_movement/Happy_Idle_Anim.Happy_Idle_Anim
+[2022.03.05-22.21.55:277][965]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/animation_movement/runstatic_Anim.runstatic_Anim
+[2022.03.05-22.21.55:277][965]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.22.10:846][150]LogSlate: Window 'Message' being destroyed
+[2022.03.05-22.22.10:887][150]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2022.03.05-22.22.10:929][150]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/animation_movement/Happy_Idle_Anim.Happy_Idle_Anim
+[2022.03.05-22.22.10:930][150]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/animation_movement/runstatic_Anim.runstatic_Anim
+[2022.03.05-22.22.10:940][150]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(1) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(2) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(3) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(4) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(5) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(6) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(7) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(8) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:941][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(9) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(10) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(11) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(12) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(13) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(14) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(15) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(16) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(17) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(18) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(19) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(20) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(21) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(22) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(23) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(24) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(25) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(26) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(27) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(28) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(29) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(30) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(31) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(32) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(33) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(34) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(35) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(36) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(37) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(38) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(39) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(40) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(41) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(42) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(43) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(44) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(45) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(46) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(47) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(48) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(49) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(50) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(51) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(52) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(53) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(54) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(55) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:942][150]LogSkinnedMeshComp: Warning: GetBoneMatrix : BoneIndex(56) out of range of SpaceBases for /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/animation_movement/texturecatfinal/Final_Cat_1.Final_Cat_1)
+[2022.03.05-22.22.10:943][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.03.05-22.22.10:943][150]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.03.05-22.22.32:938][156]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-22.22.32:946][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-22.22.32:946][156]PIE: New page: PIE session: 1stlevel (5 Mar 2022, 22:22:32)
+[2022.03.05-22.22.32:946][156]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_1stlevel
+[2022.03.05-22.22.32:961][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015381s)
+[2022.03.05-22.22.32:962][156]LogAIModule: Creating AISystem for world 1stlevel
+[2022.03.05-22.22.32:962][156]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2022.03.05-22.22.32:962][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/1stlevel.1stlevel to /Game/level/UEDPIE_0_1stlevel.1stlevel (0.016455s)
+[2022.03.05-22.22.33:025][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2022.03.05-22.22.33:029][156]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-22.22.33:029][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-22.22.33:029][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-22.22.33:030][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-22.22.33:030][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-22.22.33:030][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-22.22.33:030][156]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-22.22.33:032][156]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-22.22.33:032][156]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-22.22.33:046][156]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.05-22.22.33:047][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-22.22.33:047][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-22.22.33:047][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-22.22.33:047][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-22.22.33:047][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-22.22.33:047][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-22.22.33:048][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-22.22.33:048][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-22.22.33:048][156]LogInit: FAudioDevice initialized.
+[2022.03.05-22.22.33:048][156]LogAudio: Display: Audio Device (ID: 54) registered with world '1stlevel'.
+[2022.03.05-22.22.33:058][156]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.05-22.22.33:061][156]LogWorld: Bringing World /Game/level/UEDPIE_0_1stlevel.1stlevel up for play (max tick rate 60) at 2022.03.05-22.22.33
+[2022.03.05-22.22.33:061][156]LogWorld: Bringing up level for play took: 0.001599
+[2022.03.05-22.22.33:061][156]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.03.05-22.22.33:064][156]LogBlueprintUserMessages: [GrabAsset1_2] Hello
+[2022.03.05-22.22.33:064][156]PIE: Server logged in
+[2022.03.05-22.22.33:065][156]PIE: Play in editor total start time 0.121 seconds.
+[2022.03.05-22.22.38:426][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-22.22.38:426][475]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_1stlevel
+[2022.03.05-22.22.38:426][475]LogWorld: UWorld::CleanupWorld for 1stlevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-22.22.38:426][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-22.22.38:439][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-22.22.38:455][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-22.22.38:508][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-22.22.38:508][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-22.22.38:509][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-22.22.38:511][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-22.22.38:518][475]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2022.03.05-22.22.38:546][476]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.03.05-22.23.18:021][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.03.05-22.23.18:099][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/1stlevel_Auto8ECC215854C94E44664E53A96DF4A18F4.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/level/1stlevel_Auto8.umap'
+[2022.03.05-22.23.18:101][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level/1stlevel' took 0.149
+[2022.03.05-22.23.18:101][414]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2022.03.05-22.23.18:101][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.03.05-22.23.18:128][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.03.05-22.23.18:129][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.03.05-22.23.18:263][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/ThirdPersonCharacter_Auto8C1A718BB4A86A6CF9BEA14BD2DBCC258.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto8.uasset'
+[2022.03.05-22.23.18:265][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Engine/EngineSky/BP_Sky_Sphere] ([2] browsable assets)...
+[2022.03.05-22.23.18:283][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere]
+[2022.03.05-22.23.18:283][414]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineSky/BP_Sky_Sphere]
+[2022.03.05-22.23.18:429][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/BP_Sky_Sphere_Auto8219C38634D25C54421F0568013EB8F2B.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Engine/EngineSky/BP_Sky_Sphere_Auto8.uasset'
+[2022.03.05-22.23.18:430][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animation_movement/Floating__3__Skeleton] ([1] browsable assets)...
+[2022.03.05-22.23.18:430][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/Floating__3__Skeleton]
+[2022.03.05-22.23.18:432][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Floating__3__Skeleton_Auto81DF168A34642E6E6F93FBDBA9FB10B92.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/Floating__3__Skeleton_Auto8.uasset'
+[2022.03.05-22.23.18:433][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animation_movement/catimation] ([2] browsable assets)...
+[2022.03.05-22.23.18:456][414]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/animation_movement/catimation.catimation]
+[2022.03.05-22.23.18:456][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/catimation]
+[2022.03.05-22.23.18:485][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/catimation_Auto8776D8CD143DF816DE914B5BD1E4EA9E8.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/catimation_Auto8.uasset'
+[2022.03.05-22.23.18:486][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animation_movement/Floating__3__Anim] ([1] browsable assets)...
+[2022.03.05-22.23.18:510][414]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animation_movement/Floating__3__Anim.Floating__3__Anim]
+[2022.03.05-22.23.18:510][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/Floating__3__Anim]
+[2022.03.05-22.23.18:515][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Floating__3__Anim_Auto809911CC7475AA7E9D1CF17A83E612597.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/Floating__3__Anim_Auto8.uasset'
+[2022.03.05-22.23.18:516][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animation_movement/Happy_Idle_Anim] ([1] browsable assets)...
+[2022.03.05-22.23.18:541][414]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animation_movement/Happy_Idle_Anim.Happy_Idle_Anim]
+[2022.03.05-22.23.18:541][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/Happy_Idle_Anim]
+[2022.03.05-22.23.18:546][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Happy_Idle_Anim_Auto8DE671AF547D67F3854879D80D1907FC0.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/Happy_Idle_Anim_Auto8.uasset'
+[2022.03.05-22.23.18:546][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animation_movement/runstatic_Anim] ([1] browsable assets)...
+[2022.03.05-22.23.18:572][414]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animation_movement/runstatic_Anim.runstatic_Anim]
+[2022.03.05-22.23.18:572][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/runstatic_Anim]
+[2022.03.05-22.23.18:578][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/runstatic_Anim_Auto83AFA32DA4A855D339194A68C9F5B6503.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/runstatic_Anim_Auto8.uasset'
+[2022.03.05-22.23.18:578][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animation_movement/catblend] ([1] browsable assets)...
+[2022.03.05-22.23.18:603][414]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/animation_movement/catblend.catblend]
+[2022.03.05-22.23.18:603][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation_movement/catblend]
+[2022.03.05-22.23.18:609][414]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/catblend_Auto893880BF5452C5DD7B111D8ABD8A0DFA3.tmp' to '../../../../../../Users/Ciaran/Documents/gamejam2022/CBT_Name/Saved/Autosaves/Game/animation_movement/catblend_Auto8.uasset'
+[2022.03.05-22.23.18:610][414]LogFileHelpers: Auto-saving content packages took 0.509
